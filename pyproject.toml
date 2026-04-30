@@ -1,0 +1,7 @@
+[project]
+name = "kaizen-plugin"
+version = "0.1.0"
+description = "Kaizen Plugin for AI Agents"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
